@@ -1,5 +1,6 @@
 {
-  "domainCategory": "Trading",
+  "description": "Prototype datasource named Bybit P2P. Current implementation is placeholder code that simulates repository fetching and should be replaced with real Bybit ingestion logic.",
+  "domainCategory": "Cloud & DevOps",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
   "publisher_website": "https://subjectivetechnologies.com",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "By Bit P2 P",
-      "text": "A Subjective data source for by bit p2 p.",
+      "text": "Prototype datasource named Bybit P2P. Current implementation is placeholder code that simulates repository fetching and should be replaced with real Bybit ingestion logic.",
       "image": {
         "src": "/subjective_bybitp2p_datasource/icon.svg",
         "alt": "By Bit P2 P icon"
